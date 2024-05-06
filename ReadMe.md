@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working for a company Almo<br>🌱 I’m currently learning GraphQL, Apollo<br>📫 How to reach me kwenkazantsevv@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/dimovskii/<br>⚡ Fun fact I like volleyball 🏐, biking 🚴 and cooking 🧑‍🍳 
+🔭 I'm currently working for a company Roboticket<br>🌱 I’m currently learning GraphQL, Apollo<br>📫 How to reach me kwenkazantsevv@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/dimovskii/<br>⚡ Fun fact I like volleyball 🏐, biking 🚴 and cooking 🧑‍🍳 
 
 
 ## 🌐 Socials:
